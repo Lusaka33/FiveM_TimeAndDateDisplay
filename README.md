@@ -4,3 +4,4 @@ This was originally just a script that helped me in testing but I figured other 
 v0.2 Minor script optimization <br>
 v0.3 Fixed issue with no display and reworked code <br>
 v0.4 The text is now anchored to the right side so it doesn’t move the whole thing around a ton like it did before, and it now displays right next to the ‘FiveM’ watermark no matter which parts are turned off
+v0.5 Adding the date in French
